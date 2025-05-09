@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Basic_Java_04_Multiply_two_flaot_values {
+public class Basic_Java_04_Multiply_two_float_values {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first Float values : ");
